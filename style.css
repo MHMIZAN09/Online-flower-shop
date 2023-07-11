@@ -252,3 +252,27 @@ li {
   background: #e55473;
   color: white;
 }
+.footer-container{
+  height: 449px;
+  background-color: #111010;
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.footer-container h1 span{
+  color: #e55473;
+}
+.footer-container h1{
+  font-size: 48px;
+  font-weight: 800;
+  color: white;
+  margin-bottom: 20px;
+}
+.footer-container p{
+  font-size: 18px;
+  font-weight: 400px;
+  color: white;
+  margin-bottom: 20px;
+}
