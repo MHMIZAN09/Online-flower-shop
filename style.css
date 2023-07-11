@@ -170,3 +170,34 @@ li {
     color: white;
     border: 0px;
 }
+#img {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+/* container section 4 */
+.container-section4-title{
+  margin-top: 100px;
+  text-align: center;
+}
+.container-section4-title h1{
+  font-size: 40px;
+  font-weight: 800;
+  color: #272727;
+}
+.container-section4-title p{
+  font-size: 18px;
+  font-weight: 400;
+  color: rgba(39, 39, 39, 0.60);
+  margin-top:10px ;
+  margin-bottom:35px ;
+}
+.container-section4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 28px;
+}
+.item{
+  width: 273px;
+  height: 273px;
+}
