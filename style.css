@@ -252,6 +252,7 @@ li {
   background: #e55473;
   color: white;
 }
+/* footer section */
 .footer-container{
   height: 449px;
   background-color: #111010;
@@ -275,4 +276,9 @@ li {
   font-weight: 400px;
   color: white;
   margin-bottom: 20px;
+}
+.footer-container h6{
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.40);
 }
