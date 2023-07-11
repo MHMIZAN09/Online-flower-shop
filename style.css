@@ -283,3 +283,48 @@ li {
   font-weight: 400;
   color: rgba(255, 255, 255, 0.40);
 }
+/* create new section */
+.center-text h2{
+  text-align: center;
+  font-size: 48px;
+  font-weight: 800;
+  color: #272727;
+}
+.new-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin-top: 72px;
+  text-align: center;
+}
+.row{
+  position: relative;
+  cursor: pointer;
+}
+.row img{
+  width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+.row h4{
+  font-size: 17px;
+  font-weight: 400;
+  margin-bottom: 5px;
+  color: #111010;
+  text-transform: uppercase;
+}
+.row h5{
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.row a{
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+  padding: 13px;
+  background:#e55473;
+  text-decoration: none;
+}
